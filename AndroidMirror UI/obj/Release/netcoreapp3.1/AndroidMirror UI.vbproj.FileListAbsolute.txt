@@ -1,6 +1,0 @@
-d:\Users\DIEGO\Documents\GitHub\AndroidMirror UI\AndroidMirror UI\obj\Release\netcoreapp3.1\AndroidMirror UI.vbprojAssemblyReference.cache
-d:\Users\DIEGO\Documents\GitHub\AndroidMirror UI\AndroidMirror UI\obj\Release\netcoreapp3.1\AndroidMirror_UI.Form1.resources
-d:\Users\DIEGO\Documents\GitHub\AndroidMirror UI\AndroidMirror UI\obj\Release\netcoreapp3.1\AndroidMirror UI.vbproj.GenerateResource.cache
-d:\Users\DIEGO\Documents\GitHub\AndroidMirror UI\AndroidMirror UI\obj\Release\netcoreapp3.1\AndroidMirror UI.AssemblyInfoInputs.cache
-d:\Users\DIEGO\Documents\GitHub\AndroidMirror UI\AndroidMirror UI\obj\Release\netcoreapp3.1\AndroidMirror UI.AssemblyInfo.vb
-d:\Users\DIEGO\Documents\GitHub\AndroidMirror UI\AndroidMirror UI\obj\Release\netcoreapp3.1\AndroidMirror UI.vbproj.CoreCompileInputs.cache
